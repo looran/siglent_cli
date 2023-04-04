@@ -17,3 +17,12 @@ options:
   -f FILENAME, --filename FILENAME
                         output filename
 ```
+
+## Compatibility
+
+Tested with SDS1000X-E Series
+
+## Dependencies
+
+python-requests
+python-pyvisa (for screenshot)
